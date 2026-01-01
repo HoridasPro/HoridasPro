@@ -85,3 +85,8 @@ Currently exploring modern web development tools and frameworks to enhance my sk
   
 </p>
 
+## 🔹 Description
+Asset Verse is a full-stack asset management system designed for companies.  
+Employees can view and request assets, while HR/Admin can manage employees, assets, and generate reports.  
+It helps track, return, and document company assets efficiently.
+
