@@ -100,3 +100,70 @@ https://stupendous-gumption-565b2dsmsagor123.netlify.app
 ## Technologies Used:
 React, Node.js, Express.js, MongoDB, Firebase, TailwindCSS, Recharts, Stripe
 
+
+## ⚙️ Key Features
+
+### Employee Dashboard
+- View assigned assets
+- Request new assets
+- Return returnable assets
+- Search and filter assets
+
+### HR/Admin Dashboard
+- Manage employees
+- Manage assets (Add/Update/Delete)
+- View all requests and approvals
+- Generate PDF reports of assigned assets
+
+### Profile Pages
+- Employee profile
+- HR/Admin profile with role-specific menus
+
+### Authentication & Security
+- Firebase email/password login
+- Role-based access control (Employee / HR/Admin)
+
+## 🛠 Dependencies
+
+**Frontend**
+- react-hook-form
+- react-icons, react-router
+- tailwindcss
+- framer-motion
+- axios, tanstack/react-query
+- firebase
+- jspdf, jspdf-autotable
+- sweetalert2, md5
+
+**Backend**
+- express, mongoose
+- firebase-admin
+- cors, dotenv
+- nodemon
+- stripe
+
+- 
+
+## Deacription:
+This project is a live web application demonstrating a responsive and interactive frontend built with modern web technologies. It showcases key UI components, user interactions, and responsive layouts deployed on Netlify to present your work in a real-world environment.
+## Live Link
+https://scintillating-llamasmhoridas12-b686bf.netlify.app
+
+## 🛠 Dependencies
+
+**Frontend**
+- react-hook-form
+- react-icons, react-router
+- tailwindcss
+- framer-motion
+- axios, tanstack/react-query
+- firebase
+- jspdf, jspdf-autotable
+- sweetalert2, md5
+
+**Backend**
+- express, mongoose
+- firebase-admin
+- cors, dotenv
+- nodemon
+
