@@ -3,23 +3,20 @@
        alt="Banner" 
        style="width:100%; max-width:1200px; height:auto;" />
 </p>
-# Hi there 👋
-###### Hi there 👋
 
+# 👋 Hi, I’m Haridas Sarker
+ MERN Full Stack Web Developer
+ 
+## About Me
+I am a MERN full stack web developer building responsive and scalable web applications.  
+I love learning new technologies, solving real-world problems, and contributing to open-source projects.  
+Currently exploring modern web development tools and frameworks to enhance my skills.
 
-
-**HoridasPro/HoridasPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠 Current Activities
+- 🚀 Exploring **Next.js** and Server-Side Rendering.
+- 💻 Developing a **Tourism Website** project.
+- 🌱 Learning advanced **React patterns** and **TypeScript**.
+- 📚 Reading about **clean code practices** and **web performance optimization**.
 
 - ## 🛠️ Skills
 
