@@ -36,7 +36,7 @@ Currently exploring modern web development tools and frameworks to enhance my sk
 </p>
 
 
-<!-- ================= GitHub Stats ================= -->
+<!-- =========== GitHub Stats ============= -->
 <br />
 
 ## 📊 My GitHub Stats 
@@ -101,7 +101,7 @@ https://stupendous-gumption-565b2dsmsagor123.netlify.app
 React, Node.js, Express.js, MongoDB, Firebase, TailwindCSS, Recharts, Stripe
 
 
-## ⚙️ Key Features
+##Key Features
 
 ### Employee Dashboard
 - View assigned assets
@@ -142,8 +142,6 @@ React, Node.js, Express.js, MongoDB, Firebase, TailwindCSS, Recharts, Stripe
 - nodemon
 - stripe
 
-- 
-
 ## Deacription:
 This project is a live web application demonstrating a responsive and interactive frontend built with modern web technologies. It showcases key UI components, user interactions, and responsive layouts deployed on Netlify to present your work in a real-world environment.
 ## Live Link
@@ -166,4 +164,19 @@ https://scintillating-llamasmhoridas12-b686bf.netlify.app
 - firebase-admin
 - cors, dotenv
 - nodemon
+
+## Description
+This is a small-scale project created to practice and demonstrate specific web development skills. It focuses on implementing core functionalities, experimenting with modern technologies, and building a responsive, interactive user interface.
+
+## 🛠 Dependencies
+**Frontend**
+- react-hook-form
+- react-icons, react-router
+- tailwindcss
+- framer-motion
+- axios, tanstack/react-query
+- firebase
+- jspdf, jspdf-autotable
+- sweetalert2
+
 
