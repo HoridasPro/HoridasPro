@@ -85,8 +85,18 @@ Currently exploring modern web development tools and frameworks to enhance my sk
   
 </p>
 
-## 🔹 Description
-Asset Verse is a full-stack asset management system designed for companies.  
+## Asset Verse Project
+## Description
+Asset Verse is a MERN full-stack asset management system designed for companies.  
 Employees can view and request assets, while HR/Admin can manage employees, assets, and generate reports.  
 It helps track, return, and document company assets efficiently.
+
+## short project overview.
+Asset Verse is a MERN full-stack asset management system that helps companies track, manage, and allocate assets efficiently. Employees can request and return assets, while HR/Admin can manage inventory, monitor requests, and generate reports in a streamlined dashboard.
+
+## Live Link
+https://stupendous-gumption-565b2dsmsagor123.netlify.app
+
+## Technologies Used:
+React, Node.js, Express.js, MongoDB, Firebase, TailwindCSS, Recharts, Stripe
 
