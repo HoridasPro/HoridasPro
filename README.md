@@ -13,9 +13,10 @@ I am a MERN Full Stack Web Developer building responsive and scalable web applic
 I am passionate about continuous learning and actively working software engineer on improving my skills through hands-on projects. Currently, I am exploring modern web development tools and frameworks such as Next.js, TypeScript, and PostgreSQL to enhance my full-stack development capabilities.
 
 ## 🛠 Current Activities
-- 🚀 Exploring **Next.js** and Server-Side Rendering.
+- 💡 Proficient in **HTML5**,**CSS3**, **Tailwind CSS**, **React**,**Next.js**, **JavaScript**, **Node.js**, **Express.js**, **MongoDB**.
+- 🚀 Exploring **TypeScript**, **PostGresSQL**.
 - 💻 Developing a **Tourism Website** project.
-- 🌱 Learning advanced **React patterns** and **TypeScript**.
+- 🌱 Learning advanced **TypeScript**, **PostGresSQL** and **Software Engineering concepts**.
 - 📚 Reading about **clean code practices** and **web performance optimization**.
 
 - ## 🛠️ Skills
