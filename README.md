@@ -8,9 +8,9 @@
  MERN Full Stack Web Developer
  
 ## About Me
-I am a MERN full stack web developer building responsive and scalable web applications.  
-I love learning new technologies, solving real-world problems, and contributing to open-source projects.  
-Currently exploring modern web development tools and frameworks to enhance my skills.
+I am a MERN Full Stack Web Developer building responsive and scalable web applications. I enjoy learning new technologies, solving real-world problems, and writing clean, maintainable code.
+
+I am passionate about continuous learning and actively working software engineer on improving my skills through hands-on projects. Currently, I am exploring modern web development tools and frameworks such as Next.js, TypeScript, and PostgreSQL to enhance my full-stack development capabilities.
 
 ## 🛠 Current Activities
 - 🚀 Exploring **Next.js** and Server-Side Rendering.
