@@ -96,6 +96,27 @@ A feature-packed, highly responsive live web application showcasing modern UI/UX
 
 ---
 
+### 3. Practice & Experimental Showcase
+**Short Overview:**  
+A lightweight modular project created to demonstrate mastery over modern web features, state manipulation, interactive dynamic tables, and custom alerts.
+
+* 🛠️ **Tech Stack:** React, Axios, TanStack Query, Tailwind CSS, SweetAlert2, React Hook Form.
+* ✨ **Key Focus:** Focuses on clean architecture, optimal web performance, dynamic forms, and error handling.
+
+---
+
+
+
+<!-- =========== GitHub Stats ============= -->
+<br />
+
+## 📊 My GitHub Stats 
+
+<p align="center">
+  <!-- GitHub Profile Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoridasPro&theme=dracula" width="650"/>
+</p>
+
 
 
 
