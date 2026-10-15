@@ -125,57 +125,89 @@ Developer Assessment Platform is a full-stack web application designed to stream
 
 
  
+ 
+<!-- ================= GitHub Analytics & Insights ================= -->
 
-<!-- ================= GitHub Analytics & Stats ================= -->
 <div align="center">
+
   <h2>📊 GitHub Analytics & Insights</h2>
-  
-  <!-- Badges -->
+
   <p>
-    <a href="https://github.com/HoridasPro?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/github/stars/HoridasPro?style=flat-square&logo=github&color=7aa2f7&labelColor=1a1b26" alt="Stars"/>
+    <a href="https://github.com/HoridasPro">
+      <img src="https://img.shields.io/github/followers/HoridasPro?style=for-the-badge&logo=github&label=Followers&color=7aa2f7" alt="GitHub Followers" />
     </a>
-    &nbsp;
-    <a href="https://github.com/HoridasPro?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/Public%20Repos-36-bb9af7?style=flat-square&logo=github&labelColor=1a1b26" alt="Repos"/>
+    <a href="https://github.com/HoridasPro?tab=repositories">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHoridasPro&query=%24.public_repos&label=Public%20Repos&logo=github&style=for-the-badge&color=bb9af7" alt="Public Repositories" />
     </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Top%20Stack-TypeScript%20%7C%20Next.js-7dcfff?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1b26" alt="Stack"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Cloud-9ece6a?style=flat-square&logo=react&logoColor=black&labelColor=1a1b26" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-9ece6a?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack Development" />
   </p>
 
-  <br />
-
-  <!-- GitHub Stats & Top Languages -->
-  <table border="0" style="border: none; width: 100%;">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=HoridasPro&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoridasPro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Streak Stats Card -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoridasPro&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+  <p>
+    <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-7dcfff?style=flat-square&logo=react" alt="Frontend Stack" />
+    <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-9ece6a?style=flat-square&logo=nodedotjs" alt="Backend Stack" />
+    <img src="https://img.shields.io/badge/Language-TypeScript%20%7C%20JavaScript-bb9af7?style=flat-square&logo=typescript" alt="Programming Languages" />
   </p>
 
-  <!-- 3D Profile Summary Card -->
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoridasPro&theme=tokyonight" width="100%" alt="3D Profile Details" />
-  </p>
 </div>
 
-<hr style="border: 0.5px solid #2ac3de;" />
+---
 
-<!-- Footer -->
-<p align="center">
-  <i>✨ Designed & Developed by <b>MD Al Jihad Sawon</b></i>
-</p>
-github.com
+<!-- ================= GitHub Stats ================= -->
+
+<h3 align="center">📈 GitHub Statistics</h3>
+
+<div align="center">
+
+  <a href="https://github.com/HoridasPro">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=HoridasPro&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Haridas's GitHub Stats" />
+  </a>
+  <a href="https://github.com/HoridasPro">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoridasPro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  </a>
+
+</div>
 
 ---
+
+<!-- ================= Contribution Streak ================= -->
+
+<h3 align="center">🔥 Contribution Streak</h3>
+
+<div align="center">
+
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=HoridasPro&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+<!-- ================= Profile Summary ================= -->
+
+<h3 align="center">🌐 GitHub Profile Summary</h3>
+
+<div align="center">
+
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoridasPro&theme=tokyonight" alt="GitHub Profile Summary" />
+
+</div>
+
+---
+
+<!-- ================= Footer ================= -->
+
+<div align="center">
+
+  <p>
+    <i>💻 Building modern web applications with passion and consistency.</i>
+  </p>
+
+  <p>
+    <b>✨ Designed & Developed by Haridas Sarker</b>
+  </p>
+
+  <a href="https://github.com/HoridasPro">
+    <img src="https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit My GitHub" />
+  </a>
+
+</div>
+
