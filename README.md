@@ -85,35 +85,28 @@ Gears Up is a full-stack web application designed to provide users with a seamle
 
 
 
-### 2. Interactive Web Application
-**Overview:**  
-A feature-packed, highly responsive live web application demonstrating modern UI/UX components, seamless state management, dynamic user interactions, and robust background operations deployed on Netlify.
+## 🚀 Featured Projects
 
-- 🌐 **Live Demo:** [View Live App](https://scintillating-llamasmhoridas12-b686bf.netlify.app)
-- 🛠️ **Tech Stack:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, TanStack Query, Framer Motion
+### 1. Developer Assessment Platform — Online Technical Assessment System
+
+**Overview:**  
+Developer Assessment Platform is a full-stack web application designed to streamline technical assessments and candidate evaluations. It enables companies to create assessments, manage questions, invite candidates, evaluate submissions, and track candidate performance through dedicated dashboards.
+
+- 🌐 **Live Demo:** [Developer Assessment Platform](https://developer-assessment-frontend-6ptn.vercel.app)
+- 💻 **GitHub Frontend:** [View Source Code](https://github.com/HoridasPro/developer-assessment-platform-frontend)
+- 💻 **GitHub:** [View Source Code](https://github.com/HoridasPro/developer-assessment)
+- 🛠️ **Tech Stack:** Next.js, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, Tailwind CSS
 
 ✨ **Key Features:**
-* Interactive UI components driven by Framer Motion animations.
-* Optimistic updates and data fetching using Axios and TanStack React Query.
-* Custom PDF report exports using `jspdf` and `jspdf-autotable`.
-
-🛠️ **Dependencies:**
-* **Frontend:** `react-hook-form`, `react-icons`, `react-router`, `tailwindcss`, `framer-motion`, `axios`, `@tanstack/react-query`, `firebase`, `jspdf`, `jspdf-autotable`, `sweetalert2`, `md5`
-* **Backend:** `express`, `mongoose`, `firebase-admin`, `cors`, `dotenv`, `nodemon`
-
----
-
-### 3. Practice & Experimental Showcase
-**Overview:**  
-A small-scale lightweight modular project created to practice and demonstrate specific web development skills. It focuses on implementing core functionalities, experimenting with modern technologies, and building a responsive, interactive user interface.
-
-- 🛠️ **Tech Stack:** React, Axios, TanStack Query, Tailwind CSS, SweetAlert2, React Hook Form
-
-✨ **Key Focus:** 
-* Focuses on clean architecture, optimal web performance, dynamic forms, custom alerts, and robust error handling.
-
-🛠️ **Dependencies:**
-* **Frontend:** `react-hook-form`, `react-icons`, `react-router`, `tailwindcss`, `framer-motion`, `axios`, `@tanstack/react-query`, `firebase`, `jspdf`, `jspdf-autotable`, `sweetalert2`, `md5`
+* **Role-Based Access Control:** Dedicated dashboards and permissions for Candidates, Companies, and Admins.
+* **Assessment Management:** Create, update, publish, and manage technical assessments with configurable durations, passing scores, and attempt limits.
+* **Problem Bank:** Manage MCQ, coding, and written questions for technical assessments.
+* **Candidate Management:** Invite candidates, manage assessment attempts, and track submission status.
+* **Evaluation & Scoring:** Evaluate candidate submissions, calculate scores, and determine assessment results.
+* **Payment Integration:** Stripe integration for assessment publishing and payment processing.
+* **Admin Dashboard:** Manage users, monitor assessments, and track platform activity.
+* **Authentication:** Email/password authentication, Google sign-in, and email verification.
+* **Responsive Design:** User-friendly dashboards optimized for desktop, tablet, and mobile devices.
 
 ---
 
