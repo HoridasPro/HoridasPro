@@ -14,7 +14,7 @@ I am passionate about continuous learning and actively working software engineer
 
 ## 🛠 Current Activities
 - 💡 Proficient in **HTML5**, **CSS3**, **Tailwind CSS**, **React**,**Next.js**, **JavaScript**, **TypeScript**, **Node.js**, **Express.js**, **MongoDB**, **PostGresSQL**, **Prisma**.
-- 🚀 Exploring: ""Docker"", ""AWS"", ""Vector"", **AI agent**
+- 🚀 Exploring: **Docker**, **AWS**, **Vector**, **AI agent**
 - 💻 Developing a **Tourism Website** project.
 - 🌱 Learning advanced **TypeScript**, **PostGresSQL** and **Software Engineering concepts**.
 - 📚 Reading about **clean code practices** and **web performance optimization**.
@@ -23,7 +23,7 @@ I am passionate about continuous learning and actively working software engineer
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css3,js,react,nextjs,tailwind" />
 </p>
 
 ### ⚙️ Backend
