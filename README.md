@@ -109,25 +109,11 @@ A lightweight modular project created to demonstrate mastery over modern web fea
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoridasPro&theme=dracula" width="100%" max-width="650px"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/HoridasPro?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Public%20Repos-36-blue?style=for-the-badge&logo=github" alt="Public Repos"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/HoridasPro?tab=followers" target="_blank">
-    <img src="https://img.shields.io/badge/Followers-XX-green?style=for-the-badge&logo=github" alt="Followers"/>
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Top Language"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Contributions-%F0%9F%94%A5-red?style=for-the-badge" alt="Contributions"/>
-</p>
+ 
 
 ---
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i>
-</p>
+
 
 
 
