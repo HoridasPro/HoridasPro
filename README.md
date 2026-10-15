@@ -13,8 +13,8 @@ I am a Full Stack Developer building responsive and scalable Modern applications
 I am passionate about continuous learning and actively working software engineer on improving my skills through hands-on projects. Currently, I am exploring modern development tools and frameworks such as React, Next.js, Node.js, Express.js, JavaScript, TypeScript, MongoDB, PostgreSQL and Prisma to enhance my full-stack development capabilities.
 
 ## 🛠 Current Activities
-- 💡 Proficient in **HTML5**, **CSS3**, **Tailwind CSS**, **React**,**Next.js**, **JavaScript**, **Node.js**, **Express.js**, **MongoDB**.
-- 🚀 Exploring **TypeScript**, **PostGresSQL**.
+- 💡 Proficient in **HTML5**, **CSS3**, **Tailwind CSS**, **React**,**Next.js**, **JavaScript**, **TypeScript**, **Node.js**, **Express.js**, **MongoDB**, **PostGresSQL**, **Prisma**.
+- 🚀 Exploring: ""Docker"", ""AWS"", ""Vector"", **AI agent**
 - 💻 Developing a **Tourism Website** project.
 - 🌱 Learning advanced **TypeScript**, **PostGresSQL** and **Software Engineering concepts**.
 - 📚 Reading about **clean code practices** and **web performance optimization**.
