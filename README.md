@@ -35,7 +35,7 @@ Continuously learning and refining my craft, I actively build hands-on software 
 - 💡 **Core Expertise:** HTML5, CSS3, Tailwind CSS, React.js, Next.js, JavaScript (ES6+), TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, Prisma.
 - 🚀 **Currently Exploring:** Cloud Technologies (AWS), Containerization (Docker), Vector Databases, and AI Agents.
 - 💻 **Building:** A comprehensive **Tourism & Travel Management Website**.
-- 🌱 **Learning Focus:** Advanced TypeScript patterns, PostgreSQL optimization, and System Design.
+- 🌱 Learning Focus: **System Design at Scale**, **Distributed Systems**, and **Performance Optimization**.
 - 📚 **Reading & Growth:** Clean Code Architecture and Web Performance Optimization strategies.
 
 ---
