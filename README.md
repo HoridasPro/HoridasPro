@@ -59,26 +59,30 @@ Continuously learning and refining my craft, I actively build hands-on software 
 
 ---
 
-## 🚀 Featured Projects
+ ## 🚀 Featured Projects
 
-### 1. Asset Verse — Asset Management System
+### 1. Gears Up — [Project Type]
+
 **Overview:**  
-Asset Verse is a full-stack MERN enterprise asset management platform designed for companies. It helps track, return, and document company assets efficiently while managing employee requests and HR workflows.
+Gears Up is a full-stack web application designed to provide users with a seamless and user-friendly experience. It focuses on delivering essential features through a modern, responsive interface and an efficient backend system.
 
-- 🌐 **Live Demo:** [Asset Verse Web App](https://stupendous-gumption-565b2dsmsagor123.netlify.app)
-- 🛠️ **Tech Stack:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, Recharts, Stripe
+- 🌐 **Live Demo:** [Gears Up Web App](YOUR_LIVE_LINK)
+- 💻 **GitHub:** [View Source Code](YOUR_GITHUB_LINK)
+- 🛠️ **Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS
 
 ✨ **Key Features:**
-* **Employee Portal:** View assigned assets, request new assets, return returnable assets, and search/filter with custom filters.
-* **HR/Admin Dashboard:** Complete inventory control (Add/Update/Delete assets), manage employees, view all requests and approvals, and generate PDF reports of assigned assets.
-* **Role-Based Access Control (RBAC):** Firebase email/password authentication integrated with role-specific navigation and secure routing (Employee / HR/Admin profiles with dedicated menus).
-* **Payment Integration:** Integrated Stripe for premium membership/asset tiers.
-
-🛠️ **Dependencies:**
-* **Frontend:** `react-hook-form`, `react-icons`, `react-router`, `tailwindcss`, `framer-motion`, `axios`, `@tanstack/react-query`, `firebase`, `jspdf`, `jspdf-autotable`, `sweetalert2`, `md5`
-* **Backend:** `express`, `mongoose`, `firebase-admin`, `cors`, `dotenv`, `nodemon`, `stripe`
+* **User-Friendly Interface:** Clean, modern, and responsive design for a seamless user experience.
+* **Dynamic Functionality:** Interactive features powered by a robust backend and RESTful APIs.
+* **Data Management:** Efficient data storage, retrieval, and management using MongoDB.
+* **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
+* **Secure Backend:** Structured API endpoints and appropriate data validation.
 
 ---
+
+
+
+
+
 
 ### 2. Interactive Web Application
 **Overview:**  
