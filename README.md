@@ -1,38 +1,4 @@
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <p align="center">
+<p align="center">
   <img src="https://i.postimg.cc/g0DV2r7Y/Blue-and-White-Modern-Professional-Business-Linked-In-Banner.png" alt="Banner" style="width:100%; max-width:1200px; height:auto;" />
 </p>
 
