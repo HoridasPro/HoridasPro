@@ -33,7 +33,7 @@ I am passionate about continuous learning and actively working software engineer
 
 ### 🧰 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,docker" />
 </p>
 
 
