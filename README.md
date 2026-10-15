@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I’m Haridas Sarker</h1>
 <p align="center">
-  <b>Full Stack Developer | MERN Stack Specialist</b>
+  <b>Full Stack Developer</b>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ Developer Assessment Platform is a full-stack web application designed to stream
 
 - 🌐 **Live Demo:** [Developer Assessment Platform](https://developer-assessment-frontend-6ptn.vercel.app)
 - 💻 **GitHub Frontend:** [View Source Code](https://github.com/HoridasPro/developer-assessment-platform-frontend)
-- 💻 **GitHub:** [View Source Code](https://github.com/HoridasPro/developer-assessment)
+- 💻 **GitHub Backend:** [View Source Code](https://github.com/HoridasPro/developer-assessment)
 - 🛠️ **Tech Stack:** Next.js, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, Tailwind CSS
 
 ✨ **Key Features:**
@@ -115,12 +115,67 @@ Developer Assessment Platform is a full-stack web application designed to stream
 
 
 
+
+
+
+
+
+
+
+
+
  
 
-## 📊 GitHub Analytics
+<!-- ================= GitHub Analytics & Stats ================= -->
+<div align="center">
+  <h2>📊 GitHub Analytics & Insights</h2>
+  
+  <!-- Badges -->
+  <p>
+    <a href="https://github.com/HoridasPro?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/github/stars/HoridasPro?style=flat-square&logo=github&color=7aa2f7&labelColor=1a1b26" alt="Stars"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/HoridasPro?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Public%20Repos-36-bb9af7?style=flat-square&logo=github&labelColor=1a1b26" alt="Repos"/>
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Top%20Stack-TypeScript%20%7C%20Next.js-7dcfff?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1b26" alt="Stack"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Cloud-9ece6a?style=flat-square&logo=react&logoColor=black&labelColor=1a1b26" alt="Focus"/>
+  </p>
 
+  <br />
+
+  <!-- GitHub Stats & Top Languages -->
+  <table border="0" style="border: none; width: 100%;">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=HoridasPro&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoridasPro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Streak Stats Card -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoridasPro&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+  </p>
+
+  <!-- 3D Profile Summary Card -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoridasPro&theme=tokyonight" width="100%" alt="3D Profile Details" />
+  </p>
+</div>
+
+<hr style="border: 0.5px solid #2ac3de;" />
+
+<!-- Footer -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoridasPro&theme=dracula" width="100%" max-width="650px"/>
+  <i>✨ Designed & Developed by <b>MD Al Jihad Sawon</b></i>
 </p>
+github.com
 
 ---
