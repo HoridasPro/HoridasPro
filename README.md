@@ -1,12 +1,4 @@
-
-
-
-
-
-
-
-
- <p align="center">
+<p align="center">
   <img src="https://i.postimg.cc/g0DV2r7Y/Blue-and-White-Modern-Professional-Business-Linked-In-Banner.png" alt="Banner" style="width:100%; max-width:1200px; height:auto;" />
 </p>
 
@@ -116,6 +108,75 @@ A lightweight modular project created to demonstrate mastery over modern web fea
   <!-- GitHub Profile Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoridasPro&theme=dracula" width="650"/>
 </p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoridasPro&theme=dracula" width="100%" max-width="650px"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HoridasPro?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Public%20Repos-36-blue?style=for-the-badge&logo=github" alt="Public Repos"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/HoridasPro?tab=followers" target="_blank">
+    <img src="https://img.shields.io/badge/Followers-XX-green?style=for-the-badge&logo=github" alt="Followers"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Top Language"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Contributions-%F0%9F%94%A5-red?style=for-the-badge" alt="Contributions"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i>
+</p>
+
+
+
+
+
+ <p align="center">
+  <img src="https://i.postimg.cc/g0DV2r7Y/Blue-and-White-Modern-Professional-Business-Linked-In-Banner.png"  
+       alt="Banner" 
+       style="width:100%; max-width:1200px; height:auto;" />
+</p>
+
+# 👋 Hi, I’m Haridas Sarker
+ Full Stack Developer
+ 
+## About Me
+I am a Full Stack Developer building responsive and scalable Modern applications. I enjoy learning new technologies, solving real-world problems, and writing clean, maintainable code.
+
+I am passionate about continuous learning and actively working software engineer on improving my skills through hands-on projects. Currently, I am exploring modern development tools and frameworks such as React, Next.js, Node.js, Express.js, JavaScript, TypeScript, MongoDB, PostgreSQL and Prisma to enhance my full-stack development capabilities.
+
+## 🛠 Current Activities
+- 💡 Proficient in **HTML5**, **CSS3**, **Tailwind CSS**, **React**,**Next.js**, **JavaScript**, **TypeScript**, **Node.js**, **Express.js**, **MongoDB**, **PostGresSQL**, **Prisma**.
+- 🚀 Exploring: **Docker**, **AWS**, **Vector**, **AI agent**
+- 💻 Developing a **Tourism Website** project.
+- 🌱 Learning advanced **TypeScript**, **PostGresSQL** and **Software Engineering concepts**.
+- 📚 Reading about **clean code practices** and **web performance optimization**.
+
+- ## 🛠️ Skills
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind," />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,prisma" />
+</p>
+
+### 🧰 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,docker" />
+</p>
+
 
 
 
