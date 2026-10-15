@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/haridas-sarker-dev" target="_blank">
+  <a href="https://linkedin.com/in/haridas-sarker-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
