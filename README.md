@@ -61,7 +61,7 @@ Continuously learning and refining my craft, I actively build hands-on software 
 
  ## 🚀 Featured Projects
 
-### 1. Gears Up — [Project Type]
+### 1. Gears Up
 
 **Overview:**  
 Gears Up is a full-stack web application designed to provide users with a seamless and user-friendly experience. It focuses on delivering essential features through a modern, responsive interface and an efficient backend system.
