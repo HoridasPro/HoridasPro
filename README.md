@@ -66,14 +66,15 @@ Continuously learning and refining my craft, I actively build hands-on software 
 **Overview:**  
 Gears Up is a full-stack web application designed to provide users with a seamless and user-friendly experience. It focuses on delivering essential features through a modern, responsive interface and an efficient backend system.
 
-- 🌐 **Live Demo:** [Gears Up Web App](YOUR_LIVE_LINK)
-- 💻 **GitHub:** [View Source Code](YOUR_GITHUB_LINK)
-- 🛠️ **Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS
+- 🌐 **Live Demo:** [Gears Up Web App](https://assignment-5-xi-two.vercel.app)
+- 💻 **GitHub Frontend:** [View Source Code](https://github.com/HoridasPro/gear-up-project-frontend)
+- 💻 **GitHub Backend:** [View Source Code](https://github.com/HoridasPro/gear-up-project)
+- 🛠️ **Tech Stack:** Next.js, Node.js, Express.js, TypeScript, Tailwind CSS,PostgreSQL, Prisma
 
 ✨ **Key Features:**
 * **User-Friendly Interface:** Clean, modern, and responsive design for a seamless user experience.
 * **Dynamic Functionality:** Interactive features powered by a robust backend and RESTful APIs.
-* **Data Management:** Efficient data storage, retrieval, and management using MongoDB.
+* **Data Management:** Efficient data storage, retrieval, and management using PostgreSQL.
 * **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
 * **Secure Backend:** Structured API endpoints and appropriate data validation.
 
