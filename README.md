@@ -5,12 +5,12 @@
 </p>
 
 # 👋 Hi, I’m Haridas Sarker
- MERN Full Stack Web Developer
+ Full Stack Developer
  
 ## About Me
-I am a MERN Full Stack Web Developer building responsive and scalable web applications. I enjoy learning new technologies, solving real-world problems, and writing clean, maintainable code.
+I am a Full Stack Developer building responsive and scalable Modern applications. I enjoy learning new technologies, solving real-world problems, and writing clean, maintainable code.
 
-I am passionate about continuous learning and actively working software engineer on improving my skills through hands-on projects. Currently, I am exploring modern web development tools and frameworks such as Next.js, TypeScript, and PostgreSQL to enhance my full-stack development capabilities.
+I am passionate about continuous learning and actively working software engineer on improving my skills through hands-on projects. Currently, I am exploring modern development tools and frameworks such as React, Next.js, Node.js, Express.js, JavaScript, TypeScript, MongoDB, PostgreSQL and Prisma to enhance my full-stack development capabilities.
 
 ## 🛠 Current Activities
 - 💡 Proficient in **HTML5**, **CSS3**, **Tailwind CSS**, **React**,**Next.js**, **JavaScript**, **Node.js**, **Express.js**, **MongoDB**.
