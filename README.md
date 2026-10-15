@@ -151,56 +151,7 @@ A small-scale lightweight modular project created to practice and demonstrate sp
 
 
 
-## 📌 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>1. 🏢 Asset Verse — Asset Management System</h3>
-      <p><b>A full-stack MERN enterprise asset management platform for companies.</b></p>
-      <ul>
-        <li><b>Employee Portal:</b> Request, view, and return assigned assets.</li>
-        <li><b>HR/Admin Dashboard:</b> Inventory CRUD, request approvals, and PDF reports.</li>
-        <li><b>Security & Payments:</b> Role-Based Access (RBAC) via Firebase & Stripe integration.</li>
-      </ul>
-      <p>
-        <b>Tech Stack:</b> React, Node.js, Express, MongoDB, Firebase, Tailwind CSS, Stripe, Recharts
-      </p>
-      <p>
-        🔗 <a href="https://stupendous-gumption-565b2dsmsagor123.netlify.app" target="_blank"><b>Live Demo</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>2. ⚡ Interactive Web Application</h3>
-      <p><b>A highly responsive web application showcasing dynamic UI/UX and smooth operations.</b></p>
-      <ul>
-        <li><b>Dynamic Animations:</b> Smooth UI components powered by Framer Motion.</li>
-        <li><b>Data Fetching:</b> Optimistic updates and state management using TanStack Query.</li>
-        <li><b>Export Features:</b> Instant PDF report generation using jsPDF & AutoTable.</li>
-      </ul>
-      <p>
-        <b>Tech Stack:</b> React, Node.js, Express, MongoDB, Firebase, Tailwind CSS, TanStack Query
-      </p>
-      <p>
-        🔗 <a href="https://scintillating-llamasmhoridas12-b686bf.netlify.app" target="_blank"><b>Live Demo</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>3. 🧪 Practice & Experimental Showcase</h3>
-      <p><b>A modular project built to test, practice, and showcase modern full-stack web capabilities.</b></p>
-      <ul>
-        <li><b>Clean Architecture:</b> Built with performance, modularity, and clean code principles in mind.</li>
-        <li><b>Interactive UI:</b> Dynamic forms, interactive data tables, and custom alerts using SweetAlert2.</li>
-        <li><b>State & Forms:</b> Seamless state management using React Hook Form & TanStack Query.</li>
-      </ul>
-      <p>
-        <b>Tech Stack:</b> React, Axios, TanStack Query, Tailwind CSS, SweetAlert2, React Hook Form
-      </p>
-    </td>
-  </tr>
-</table>
+ 
 
 ## 📊 GitHub Analytics
 
